@@ -168,7 +168,7 @@ const MainScreen = () => {
                             <Text>Set Timer</Text>
                         </Button>
                         <Button>
-                            <Text>Code Push</Text>
+                            <Text>Code Push Updated</Text>
                         </Button>
                     </View>
                 </Content>
